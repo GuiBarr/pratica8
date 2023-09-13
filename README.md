@@ -1,3 +1,4 @@
 # pratica8
 
-//main --dev
+// main --dev --test --prod
+
