@@ -1,3 +1,3 @@
 # pratica8
 
-//main
+//main --dev
